@@ -19,3 +19,6 @@ public class runner{
         public boolean isPerfectSquare(float a);
     }
 }
+/*Saahil's Comments: I leared how to merge and create branches on github and
+also I learned what it means to push and pull something. I also learned how stage commits.
+*/
